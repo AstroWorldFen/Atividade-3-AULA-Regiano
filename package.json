@@ -1,0 +1,12 @@
+{
+  "name": "atividade-3-aula-regiano",
+  "version": "1.0.0",
+  "description": "Nome: João Vitor de Oliveira Sampaio\r Matricula: 2314290084",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
